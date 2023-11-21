@@ -38,7 +38,7 @@ is_legendary: Denotes if the Pokemon is legendary.
 3) [.PowerBi](https://powerbi.microsoft.com/en-us/downloads/)
 
 ## Visualizations Explained-
-###1) Pokemon-Wiki
+### 1) Pokemon-Wiki
 ![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/4417b95f-94da-447f-9e19-b21e389826b4)
 This dashboard is the Pokemon Wiki. This consists of 5 Slicers Type 1, Type 2, Classification, Name & Generation. These can be used to filter through the Pokemon database.  
 This dashboard also has 6 Data Cards that show the 6 basic stats of a Pokemon namely Hp, Attack, Defense, Sp_Attack, Sp_Defense, and Speed. The remaining additional information including the images of the Pokemon is shown by the two matrices.
