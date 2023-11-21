@@ -33,9 +33,8 @@ generation: The numbered generation in which the Pokemon was first introduced
 is_legendary: Denotes if the Pokemon is legendary.
 
 ## Technologies Used  
-1) [.Py](https://www.python.org/downloads/)
-2) [.sql](https://www.microsoft.com/en-ca/sql-server/sql-server-downloads)
-3) [.PowerBi](https://powerbi.microsoft.com/en-us/downloads/)
+1) [.sql](https://www.microsoft.com/en-ca/sql-server/sql-server-downloads)
+2) [.PowerBi](https://powerbi.microsoft.com/en-us/downloads/)
 
 ## Visualizations Explained-
 ### 1) Pokemon-Wiki
@@ -63,6 +62,11 @@ This dashboard shows the Top 5 Pokemons based on types(1&2) in a Matrix with sta
 -We got to know that having a Pokémon with max attribute doesn't transverse to the overall power of the Pokémon. The standard score for determining the strength of a Pokémon is via its base_total score.  
 -The most powerful Pokémon according to base_total stats are Rayquaza and Mewtwo.  
 -Although Capture rate and legendary status should also be considered in a Pokemon battle. 
+
+### 6) References
+Dataset- “The Complete Pokemon Dataset.” Kaggle, 29 Sept. 2017, www.kaggle.com/datasets/rounakbanik/pokemon.  
+Information On Pokemon Stats- Bulbapedia, Pokedex, SerebiiImages-  Pokemon images
+
 
 
 
