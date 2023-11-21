@@ -2,7 +2,8 @@
 ![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/f473cf3c-07ed-4084-9a8a-34e3bdec06bd)
 
 ## Introduction:
-Objective: To create the Pokedex on PowerBI and use that to find the most powerful Pokemon.
+Objective: To create the Pokedex on PowerBI and use that to find the most powerful Pokemon.  
+
 Scope: To Create a battle simulator.
 ## Dataset Overview
 This dataset contains information on all 809 Pokemon from all Seven Generations of Pokemon. The information contained in this dataset includes Base Stats, Performance against Other Types, Height, Weight, Classification, Egg Steps, Experience Points, Abilities, etc. The information was scraped from http://serebii.net/
