@@ -49,7 +49,8 @@ This dashboard shows the most powerful based on 4 major attributes Hp, Attack, D
 The data Cards show the name and image of the Pokeomns, meanwhile, the clustered column charts at the bottom show the TOP 5 in that category.
 
 ### 3)  1V1 Battle simulator
-![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/b3d6c1d4-dab1-4f50-8b8e-cbeef53ce855)
+![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/6b33e20d-9a46-4823-89b3-92185ebf16c4)
+
 This Dashboard is split into 2 parts (red/blue). You can select the name of the Pokemon from each slicer in the respective parts and their stats will be shown in the respective parts of the dashboard.  
 Each data card in part ex-blue zone is not dependent on the slicer in the the red zone. The Base Total score determines the winner.
 
