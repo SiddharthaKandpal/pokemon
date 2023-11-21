@@ -65,7 +65,7 @@ This dashboard shows the Top 5 Pokemons based on types(1&2) in a Matrix with sta
 
 ### 6) References
 Dataset- “The Complete Pokemon Dataset.” Kaggle, 29 Sept. 2017, www.kaggle.com/datasets/rounakbanik/pokemon.  
-Information On Pokemon Stats- Bulbapedia, Pokedex, SerebiiImages-  Pokemon images
+Information On Pokemon Stats- [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) , [Serebii](https://serebii.net/pokedex/)
 
 
 
