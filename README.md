@@ -43,23 +43,24 @@ is_legendary: Denotes if the Pokemon is legendary.
 This dashboard is the Pokemon Wiki. This consists of 5 Slicers Type 1, Type 2, Classification, Name & Generation. These can be used to filter through the Pokemon database.  
 This dashboard also has 6 Data Cards that show the 6 basic stats of a Pokemon namely Hp, Attack, Defense, Sp_Attack, Sp_Defense, and Speed. The remaining additional information including the images of the Pokemon is shown by the two matrices.
 
-###2)  MOST POWERFUL POKEMON BY ATTRIBUTES BASED ON GENERATION
+### 2)  MOST POWERFUL POKEMON BY ATTRIBUTES BASED ON GENERATION
 ![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/b3d6c1d4-dab1-4f50-8b8e-cbeef53ce855)
-This dashboard shows the most powerful based on 4 major attributes Hp, Attack, Defense, and Speed. This can also be sliced through the Generation and legendary status of the Pokemon.
-The Data Card shows the name and image of the Pokeomns, meanwhile, the clustered column charts at the bottom show the TOP 5 in that category.
+This dashboard shows the most powerful based on 4 major attributes Hp, Attack, Defense, and Speed. This can also be sliced through the Generation and legendary status of the Pokemon.  
+The data Cards show the name and image of the Pokeomns, meanwhile, the clustered column charts at the bottom show the TOP 5 in that category.
 
-###3)  1V1 Battle simulator
+### 3)  1V1 Battle simulator
 ![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/b3d6c1d4-dab1-4f50-8b8e-cbeef53ce855)
-This Dashboard is split into 2 parts (red/blue). You can select the name of the Pokemon from each slicer in the respective parts and their stats will be shown in the respective parts of the dashboard. Each data card in part ex-blue zone is not dependent on the slicer in the the red zone. The Base Total score determines the winner.
+This Dashboard is split into 2 parts (red/blue). You can select the name of the Pokemon from each slicer in the respective parts and their stats will be shown in the respective parts of the dashboard.  
+Each data card in part ex-blue zone is not dependent on the slicer in the the red zone. The Base Total score determines the winner.
 
-###4)  Top 5 according to Type
+### 4)  Top 5 according to Type
 ![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/edcd3b4a-b6ad-469d-8647-ea6db3f114b8)
 This dashboard shows the Top 5 Pokemons based on types(1&2) in a Matrix with stats and images. Can also be sliced through a legendary slicer on the right corner. 
 
-###5)  Conclusion
-![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/aa02e4a4-e59a-4780-85c6-22f4de500deb)
--We got to know that having a Pokémon with max attribute doesn't transverse to the overall power of the Pokémon. The standard score for determining the strength of a Pokémon is via its base_total score.
--The most powerful Pokémon according to base_total stats are Rayquaza and Mewtwo.
+### 5)  Conclusion
+![image](https://github.com/SiddharthaKandpal/pokemon/assets/78250442/aa02e4a4-e59a-4780-85c6-22f4de500deb)  
+-We got to know that having a Pokémon with max attribute doesn't transverse to the overall power of the Pokémon. The standard score for determining the strength of a Pokémon is via its base_total score.  
+-The most powerful Pokémon according to base_total stats are Rayquaza and Mewtwo.  
 -Although Capture rate and legendary status should also be considered in a Pokemon battle. 
 
 
